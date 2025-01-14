@@ -57,7 +57,7 @@ Olá eu sou o Carlos, tenho 20 anos e a cada dia sendo um profissional e uma pes
 
 <a href="https://github.com/vviniciuss13" title="Perfil do Vvinicius13">
 <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vviniciuss13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vviniciuss13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Minhas%20Linguagens"
         alt="Github Stats"
   />
 </a>
