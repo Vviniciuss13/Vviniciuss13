@@ -44,6 +44,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosfravolini/)](https://www.linkedin.com/in/carlosfravolini/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfravolini@gmail.com)](mailto:viniciusfravolini@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-carlosfravolini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosfravolini/)](https://www.linkedin.com/in/carlosfravolini/)
+[![Gmail Badge](https://img.shields.io/badge/-viniciusfravolini@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfravolini@gmail.com)](mailto:viniciusfravolini@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/vviniciuss13?label=follow&style=social)](https://github.com/Vviniciuss13/)
